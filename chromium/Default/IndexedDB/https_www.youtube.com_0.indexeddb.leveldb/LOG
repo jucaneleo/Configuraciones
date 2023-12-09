@@ -1,0 +1,12 @@
+2023/12/07-22:42:04.650 3b7 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/07-22:42:04.650 3b7 Recovering log #257
+2023/12/07-22:42:04.662 3b7 Reusing old log /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000257.log 
+2023/12/07-22:42:09.194 3ae Level-0 table #262: started
+2023/12/07-22:42:09.201 3ae Level-0 table #262: 1539996 bytes OK
+2023/12/07-22:42:09.202 3ae Delete type=0 #257
+2023/12/07-22:42:17.872 3b6 Compacting 1@1 + 1@2 files
+2023/12/07-22:42:17.877 3b6 Generated table #263@1: 875 keys, 81374 bytes
+2023/12/07-22:42:17.877 3b6 Compacted 1@1 + 1@2 files => 81374 bytes
+2023/12/07-22:42:17.878 3b6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/07-22:42:17.878 3b6 Delete type=2 #259
+2023/12/07-22:42:17.878 3b6 Delete type=2 #262

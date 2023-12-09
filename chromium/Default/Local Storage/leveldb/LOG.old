@@ -1,0 +1,6 @@
+2023/12/08-21:07:23.411 4 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/12/08-21:07:23.413 4 Recovering log #918
+2023/12/08-21:07:23.414 4 Reusing old log /home/zamyaza/.config/chromium/Default/Local Storage/leveldb/000918.log 
+2023/12/08-21:39:02.688 4 Level-0 table #922: started
+2023/12/08-21:39:02.696 4 Level-0 table #922: 18333 bytes OK
+2023/12/08-21:39:02.699 4 Delete type=0 #918

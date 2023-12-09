@@ -1,0 +1,24 @@
+2023/11/27-13:56:31.987 523 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.skill-capped.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/27-13:56:31.988 523 Recovering log #91
+2023/11/27-13:56:31.988 523 Reusing old log /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.skill-capped.com_0.indexeddb.leveldb/000091.log 
+2023/11/27-13:56:32.015 52c Level-0 table #97: started
+2023/11/27-13:56:32.016 52c Level-0 table #97: 71113 bytes OK
+2023/11/27-13:56:32.017 52c Delete type=0 #91
+2023/11/27-13:56:32.017 523 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/27-13:56:34.145 52d Level-0 table #99: started
+2023/11/27-13:56:34.147 52d Level-0 table #99: 6020 bytes OK
+2023/11/27-13:56:34.148 52d Delete type=0 #96
+2023/11/27-13:56:34.148 522 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 2694 : 1
+2023/11/27-13:56:34.148 522 Compacting 1@0 + 1@1 files
+2023/11/27-13:56:34.149 522 Generated table #100@0: 160 keys, 4424 bytes
+2023/11/27-13:56:34.149 522 Compacted 1@0 + 1@1 files => 4424 bytes
+2023/11/27-13:56:34.150 522 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/27-13:56:34.150 522 Delete type=2 #99
+2023/11/27-13:56:34.151 522 Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 2694 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/27-13:57:13.350 523 Compacting 1@1 + 1@2 files
+2023/11/27-13:57:13.354 523 Generated table #101@1: 42 keys, 2991 bytes
+2023/11/27-13:57:13.355 523 Compacted 1@1 + 1@2 files => 2991 bytes
+2023/11/27-13:57:13.355 523 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/27-13:57:13.356 523 Delete type=2 #97
+2023/11/27-13:57:13.356 523 Delete type=2 #94
+2023/11/27-13:57:13.356 523 Delete type=2 #100

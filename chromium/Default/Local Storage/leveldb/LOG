@@ -1,0 +1,19 @@
+2023/12/09-06:03:06.055 4 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/12/09-06:03:06.062 4 Recovering log #921
+2023/12/09-06:03:06.062 4 Reusing old log /home/zamyaza/.config/chromium/Default/Local Storage/leveldb/000921.log 
+2023/12/09-12:13:01.522 4 Level-0 table #925: started
+2023/12/09-12:13:01.530 4 Level-0 table #925: 20861 bytes OK
+2023/12/09-12:13:01.533 4 Delete type=0 #921
+2023/12/09-12:13:01.534 4 Compacting 4@0 + 3@1 files
+2023/12/09-12:13:01.571 4 Generated table #926@0: 807 keys, 2121948 bytes
+2023/12/09-12:13:01.586 4 Generated table #927@0: 1058 keys, 2173429 bytes
+2023/12/09-12:13:01.596 4 Generated table #928@0: 4050 keys, 847791 bytes
+2023/12/09-12:13:01.596 4 Compacted 4@0 + 3@1 files => 5143168 bytes
+2023/12/09-12:13:01.597 4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/12/09-12:13:01.598 4 Delete type=2 #913
+2023/12/09-12:13:01.598 4 Delete type=2 #919
+2023/12/09-12:13:01.598 4 Delete type=2 #914
+2023/12/09-12:13:01.598 4 Delete type=2 #922
+2023/12/09-12:13:01.598 4 Delete type=2 #917
+2023/12/09-12:13:01.598 4 Delete type=2 #915
+2023/12/09-12:13:01.598 4 Delete type=2 #925

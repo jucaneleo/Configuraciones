@@ -1,0 +1,25 @@
+2023/12/09-06:03:06.402 376 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/12/09-06:03:06.402 376 Recovering log #503
+2023/12/09-06:03:06.408 376 Reusing old log /home/zamyaza/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000503.log 
+2023/12/09-12:04:52.957 36e Level-0 table #507: started
+2023/12/09-12:04:52.972 36e Level-0 table #507: 2520990 bytes OK
+2023/12/09-12:04:52.973 36e Delete type=0 #503
+2023/12/09-12:04:53.286 36e Level-0 table #509: started
+2023/12/09-12:04:53.302 36e Level-0 table #509: 1892759 bytes OK
+2023/12/09-12:04:53.303 36e Delete type=0 #506
+2023/12/09-12:04:53.303 36e Compacting 4@0 + 3@1 files
+2023/12/09-12:04:53.336 36e Generated table #510@0: 13 keys, 2612577 bytes
+2023/12/09-12:04:53.362 36e Generated table #511@0: 19 keys, 2261546 bytes
+2023/12/09-12:04:53.364 36e Generated table #512@0: 10 keys, 131022 bytes
+2023/12/09-12:04:53.364 36e Compacted 4@0 + 3@1 files => 5005145 bytes
+2023/12/09-12:04:53.365 36e compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/12/09-12:04:53.365 36e Delete type=2 #499
+2023/12/09-12:04:53.365 36e Delete type=2 #502
+2023/12/09-12:04:53.365 36e Delete type=2 #500
+2023/12/09-12:04:53.365 36e Delete type=2 #507
+2023/12/09-12:04:53.365 36e Delete type=2 #504
+2023/12/09-12:04:53.365 36e Delete type=2 #509
+2023/12/09-12:04:53.365 36e Delete type=2 #498
+2023/12/09-12:06:53.432 36e Level-0 table #514: started
+2023/12/09-12:06:53.449 36e Level-0 table #514: 3084480 bytes OK
+2023/12/09-12:06:53.450 36e Delete type=0 #508

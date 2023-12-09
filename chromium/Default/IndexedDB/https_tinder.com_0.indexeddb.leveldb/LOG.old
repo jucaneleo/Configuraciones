@@ -1,0 +1,18 @@
+2023/12/03-20:35:25.171 244d Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_tinder.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/03-20:35:25.172 244d Recovering log #3
+2023/12/03-20:35:25.186 244d Reusing old log /home/zamyaza/.config/chromium/Default/IndexedDB/https_tinder.com_0.indexeddb.leveldb/000003.log 
+2023/12/03-20:49:02.455 244e Level-0 table #5: started
+2023/12/03-20:49:02.467 244e Level-0 table #5: 1324720 bytes OK
+2023/12/03-20:49:02.469 244e Delete type=0 #3
+2023/12/03-22:22:34.559 244e Level-0 table #7: started
+2023/12/03-22:22:34.563 244e Level-0 table #7: 246404 bytes OK
+2023/12/03-22:22:34.564 244e Delete type=0 #4
+2023/12/03-22:22:34.564 244e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/03-22:22:34.564 244e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01 \x03\x00\x10\xb6:$\xc3xB\x00\x01}\x00a\x00p\x00i\x00-\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00s\x00s\x00l\x00.\x00g\x00o\x00t\x00i\x00n\x00d\x00e\x00r\x00.\x00c\x00o\x00m\x00/\x006\x004\x002\x004\x00b\x00b\x007\x009\x009\x001\x003\x008\x005\x006\x000\x001\x000\x000\x005\x00f\x000\x002\x00c\x00a\x00/\x001\x007\x002\x00x\x002\x001\x006\x00_\x007\x005\x00_\x003\x00c\x008\x00b\x000\x004\x00f\x007\x00-\x00b\x004\x009\x008\x00-\x004\x006\x000\x00b\x00-\x00b\x000\x009\x002\x00-\x006\x00a\x00c\x00e\x00f\x008\x004\x00a\x00c\x00c\x001\x00c\x00.\x00w\x00e\x00b\x00p' @ 23752 : 1
+2023/12/03-22:22:34.564 244e Compacting 1@1 + 1@2 files
+2023/12/03-22:22:34.577 244e Generated table #8@1: 337 keys, 47666 bytes
+2023/12/03-22:22:34.577 244e Compacted 1@1 + 1@2 files => 47666 bytes
+2023/12/03-22:22:34.578 244e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/03-22:22:34.578 244e Delete type=2 #7
+2023/12/03-22:22:34.578 244e Delete type=2 #5
+2023/12/03-22:22:34.578 244e Manual compaction at level-1 from '\x00\x02\x01 \x03\x00\x10\xb6:$\xc3xB\x00\x01}\x00a\x00p\x00i\x00-\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00s\x00s\x00l\x00.\x00g\x00o\x00t\x00i\x00n\x00d\x00e\x00r\x00.\x00c\x00o\x00m\x00/\x006\x004\x002\x004\x00b\x00b\x007\x009\x009\x001\x003\x008\x005\x006\x000\x001\x000\x000\x005\x00f\x000\x002\x00c\x00a\x00/\x001\x007\x002\x00x\x002\x001\x006\x00_\x007\x005\x00_\x003\x00c\x008\x00b\x000\x004\x00f\x007\x00-\x00b\x004\x009\x008\x00-\x004\x006\x000\x00b\x00-\x00b\x000\x009\x002\x00-\x006\x00a\x00c\x00e\x00f\x008\x004\x00a\x00c\x00c\x001\x00c\x00.\x00w\x00e\x00b\x00p' @ 23752 : 1 .. (end); will stop at (end)

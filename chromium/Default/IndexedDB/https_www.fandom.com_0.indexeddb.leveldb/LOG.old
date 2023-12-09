@@ -1,0 +1,6 @@
+2023/11/10-14:28:51.789 2618 Creating DB /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2023/11/10-14:28:51.791 2618 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/10-15:24:14.516 2619 Level-0 table #5: started
+2023/11/10-15:24:14.516 2619 Level-0 table #5: 4130 bytes OK
+2023/11/10-15:24:14.517 2619 Delete type=0 #3
+2023/11/10-15:24:14.517 2619 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

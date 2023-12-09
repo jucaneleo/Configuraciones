@@ -1,0 +1,15 @@
+2023/11/16-17:29:44.890 219a Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_hostinger.titan.email_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/16-17:29:44.891 219a Recovering log #4
+2023/11/16-17:29:44.891 219a Reusing old log /home/zamyaza/.config/chromium/Default/IndexedDB/https_hostinger.titan.email_0.indexeddb.leveldb/000004.log 
+2023/11/16-17:30:29.237 219a Level-0 table #8: started
+2023/11/16-17:30:29.239 219a Level-0 table #8: 77565 bytes OK
+2023/11/16-17:30:29.240 219a Delete type=0 #4
+2023/11/16-17:30:29.240 219a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/16-17:30:29.240 219a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x0f\x02\x01\x01\x008' @ 5634 : 1
+2023/11/16-17:30:29.240 219a Compacting 1@1 + 1@2 files
+2023/11/16-17:30:29.242 219a Generated table #9@1: 667 keys, 35806 bytes
+2023/11/16-17:30:29.242 219a Compacted 1@1 + 1@2 files => 35806 bytes
+2023/11/16-17:30:29.243 219a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/16-17:30:29.243 219a Delete type=2 #8
+2023/11/16-17:30:29.243 219a Delete type=2 #5
+2023/11/16-17:30:29.243 219a Manual compaction at level-1 from '\x00\x04\x0f\x02\x01\x01\x008' @ 5634 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/11/22-18:26:53.657 233f Creating DB /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
+2023/11/22-18:26:53.659 233f Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/22-20:35:01.706 2340 Level-0 table #5: started
+2023/11/22-20:35:01.708 2340 Level-0 table #5: 20568 bytes OK
+2023/11/22-20:35:01.710 2340 Delete type=0 #3
+2023/11/22-20:35:01.710 2340 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

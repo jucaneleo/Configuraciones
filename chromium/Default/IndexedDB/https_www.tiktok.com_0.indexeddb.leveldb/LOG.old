@@ -1,0 +1,15 @@
+2023/11/22-16:02:06.584 341 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/22-16:02:06.584 341 Recovering log #7
+2023/11/22-16:02:06.584 341 Reusing old log /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/000007.log 
+2023/11/22-16:06:12.150 342 Level-0 table #12: started
+2023/11/22-16:06:12.152 342 Level-0 table #12: 209 bytes OK
+2023/11/22-16:06:12.153 342 Delete type=0 #7
+2023/11/22-16:06:12.154 342 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/22-16:06:12.154 342 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 49 : 1
+2023/11/22-16:06:12.155 342 Compacting 1@1 + 1@2 files
+2023/11/22-16:06:12.156 342 Generated table #13@1: 19 keys, 496 bytes
+2023/11/22-16:06:12.156 342 Compacted 1@1 + 1@2 files => 496 bytes
+2023/11/22-16:06:12.157 342 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/22-16:06:12.158 342 Delete type=2 #12
+2023/11/22-16:06:12.158 342 Delete type=2 #9
+2023/11/22-16:06:12.159 342 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 49 : 1 .. (end); will stop at (end)

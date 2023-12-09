@@ -1,0 +1,21 @@
+2023/12/03-15:48:02.750 9cf Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/03-15:48:02.750 9cf Recovering log #40
+2023/12/03-15:48:02.754 9cf Reusing old log /home/zamyaza/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000040.log 
+2023/12/03-15:48:04.664 9d0 Compacting 1@1 + 1@2 files
+2023/12/03-15:48:04.673 9d0 Generated table #43@1: 250 keys, 436454 bytes
+2023/12/03-15:48:04.673 9d0 Compacted 1@1 + 1@2 files => 436454 bytes
+2023/12/03-15:48:04.674 9d0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/03-15:48:04.674 9d0 Delete type=2 #41
+2023/12/03-15:48:04.674 9d0 Delete type=2 #39
+2023/12/03-16:08:56.917 9d0 Level-0 table #45: started
+2023/12/03-16:08:56.945 9d0 Level-0 table #45: 2314804 bytes OK
+2023/12/03-16:08:56.946 9d0 Delete type=0 #40
+2023/12/03-16:08:56.947 9d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/03-16:08:56.947 9d0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 27193 : 0
+2023/12/03-16:08:56.947 9d0 Compacting 1@1 + 1@2 files
+2023/12/03-16:08:56.952 9d0 Generated table #46@1: 137 keys, 169090 bytes
+2023/12/03-16:08:56.952 9d0 Compacted 1@1 + 1@2 files => 169090 bytes
+2023/12/03-16:08:56.953 9d0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/03-16:08:56.953 9d0 Delete type=2 #45
+2023/12/03-16:08:56.953 9d0 Delete type=2 #43
+2023/12/03-16:08:56.953 9d0 Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 27193 : 0 .. (end); will stop at (end)

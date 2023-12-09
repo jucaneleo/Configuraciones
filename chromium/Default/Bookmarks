@@ -1,0 +1,113 @@
+{
+   "checksum": "f68b86c7b5922873270f14cb905d6ebc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13342841099697179",
+            "date_last_used": "13345668471173208",
+            "guid": "1afd16d7-e0c4-4708-a497-53f4c9b5e39a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Switch pro controller not working on steam/At all (Arch linux) : r/linux_gaming",
+            "type": "url",
+            "url": "https://www.reddit.com/r/linux_gaming/comments/wyfk4j/switch_pro_controller_not_working_on_steamat_all/"
+         }, {
+            "date_added": "13343497809006950",
+            "date_last_used": "13346010856316273",
+            "guid": "2692f6f1-1fc5-4f9b-b35a-90548a021b7f",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "django admin",
+            "type": "url",
+            "url": "http://127.0.0.1:8000/admin/"
+         }, {
+            "date_added": "13343705528200167",
+            "date_last_used": "0",
+            "guid": "67acf282-06b3-40d0-a03c-973173054053",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "21 Useful Linux Terminal Shortcuts Pro Users Love",
+            "type": "url",
+            "url": "https://itsfoss.com/linux-terminal-shortcuts/"
+         }, {
+            "date_added": "13344005092392785",
+            "date_last_used": "13346121137890397",
+            "guid": "bbb947a5-81df-49c8-8d04-19e99316a66e",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maestro chen",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx"
+         }, {
+            "date_added": "13345153937662007",
+            "date_last_used": "13345187109017023",
+            "guid": "6e4a92e1-ddfb-4818-b433-5ad48fa58a29",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Caso semestral - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/1/folders/14dFU3a4yQdGKyUOfWj6chLyHgDO8o_-I"
+         }, {
+            "date_added": "13345512873038280",
+            "date_last_used": "0",
+            "guid": "d6758737-b5b9-4ea1-93c3-47e5ed92114a",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Imageboard Scraper",
+            "type": "url",
+            "url": "https://nik.bot.nu/"
+         } ],
+         "date_added": "13342841003230570",
+         "date_last_used": "0",
+         "date_modified": "13346449216702297",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13346449216702297",
+            "date_last_used": "0",
+            "guid": "4e157310-b0aa-47ab-b64b-296e014261af",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SYSCOM: CEIBA2-EPCOM - Software de administración para soluciones de videovigilancia móvil linea XMR",
+            "type": "url",
+            "url": "https://www.syscom.mx/producto/CEIBA2-EPCOM-93360.html#:~:text=Plataforma%20Ceiba2,de%20tu%20flotilla%20de%20veh%C3%ADculos"
+         } ],
+         "date_added": "13342841003230572",
+         "date_last_used": "0",
+         "date_modified": "13346449223485005",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13342841003230574",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

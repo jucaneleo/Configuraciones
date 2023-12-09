@@ -1,0 +1,18 @@
+2023/10/31-19:53:30.845 fe0 Creating DB /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.g2g.com_0.indexeddb.leveldb since it was missing.
+2023/10/31-19:53:30.847 fe0 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.g2g.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/31-19:53:30.855 fe8 Level-0 table #5: started
+2023/10/31-19:53:30.856 fe8 Level-0 table #5: 1308 bytes OK
+2023/10/31-19:53:30.857 fe8 Delete type=0 #3
+2023/10/31-19:53:30.857 fe8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/31-19:54:29.401 fde Level-0 table #7: started
+2023/10/31-19:54:29.402 fde Level-0 table #7: 4043 bytes OK
+2023/10/31-19:54:29.403 fde Delete type=0 #4
+2023/10/31-19:54:29.403 fde Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/31-19:54:29.403 fde Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01-\x00G\x002\x00G\x00!\x001\x00:\x006\x004\x001\x006\x001\x002\x002\x002\x001\x007\x005\x006\x00:\x00w\x00e\x00b\x00:\x00b\x002\x00d\x007\x000\x007\x002\x00d\x00d\x00d\x004\x00a\x001\x006\x003\x00f\x002\x00f\x006\x002\x003\x009' @ 122 : 1
+2023/10/31-19:54:29.403 fde Compacting 1@1 + 1@2 files
+2023/10/31-19:54:29.404 fde Generated table #8@1: 36 keys, 2572 bytes
+2023/10/31-19:54:29.404 fde Compacted 1@1 + 1@2 files => 2572 bytes
+2023/10/31-19:54:29.404 fde compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/31-19:54:29.405 fde Delete type=2 #7
+2023/10/31-19:54:29.405 fde Delete type=2 #5
+2023/10/31-19:54:29.405 fde Manual compaction at level-1 from '\x00\x03\x01\x02\x01-\x00G\x002\x00G\x00!\x001\x00:\x006\x004\x001\x006\x001\x002\x002\x002\x001\x007\x005\x006\x00:\x00w\x00e\x00b\x00:\x00b\x002\x00d\x007\x000\x007\x002\x00d\x00d\x00d\x004\x00a\x001\x006\x003\x00f\x002\x00f\x006\x002\x003\x009' @ 122 : 1 .. (end); will stop at (end)

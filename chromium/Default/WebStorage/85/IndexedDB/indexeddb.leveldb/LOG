@@ -1,0 +1,6 @@
+2023/11/08-19:34:23.684 1ae0b Creating DB /home/zamyaza/.config/chromium/Default/WebStorage/85/IndexedDB/indexeddb.leveldb since it was missing.
+2023/11/08-19:34:23.686 1ae0b Reusing MANIFEST /home/zamyaza/.config/chromium/Default/WebStorage/85/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2023/11/08-19:36:23.342 1ae0a Level-0 table #5: started
+2023/11/08-19:36:23.343 1ae0a Level-0 table #5: 43700 bytes OK
+2023/11/08-19:36:23.344 1ae0a Delete type=0 #3
+2023/11/08-19:36:23.344 1ae0a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

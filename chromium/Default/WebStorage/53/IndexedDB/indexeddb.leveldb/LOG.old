@@ -1,0 +1,15 @@
+2023/12/06-14:59:12.022 344 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/WebStorage/53/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2023/12/06-14:59:12.023 344 Recovering log #11
+2023/12/06-14:59:12.029 344 Reusing old log /home/zamyaza/.config/chromium/Default/WebStorage/53/IndexedDB/indexeddb.leveldb/000011.log 
+2023/12/06-15:24:49.992 345 Level-0 table #16: started
+2023/12/06-15:24:49.995 345 Level-0 table #16: 487445 bytes OK
+2023/12/06-15:24:49.997 345 Delete type=0 #11
+2023/12/06-15:24:49.997 345 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/06-15:24:49.997 345 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\xc7\xc9\x02\xbbxB\x00\x03\x00\x00\x00\x00\x00\xa0n@' @ 9809 : 1
+2023/12/06-15:24:49.997 345 Compacting 1@1 + 1@2 files
+2023/12/06-15:24:49.999 345 Generated table #17@1: 80 keys, 1770 bytes
+2023/12/06-15:24:49.999 345 Compacted 1@1 + 1@2 files => 1770 bytes
+2023/12/06-15:24:50.000 345 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/06-15:24:50.000 345 Delete type=2 #16
+2023/12/06-15:24:50.000 345 Delete type=2 #13
+2023/12/06-15:24:50.000 345 Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\xc7\xc9\x02\xbbxB\x00\x03\x00\x00\x00\x00\x00\xa0n@' @ 9809 : 1 .. (end); will stop at (end)

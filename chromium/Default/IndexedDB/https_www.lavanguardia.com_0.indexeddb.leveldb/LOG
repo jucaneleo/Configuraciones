@@ -1,0 +1,6 @@
+2023/11/18-22:38:39.637 392 Creating DB /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.lavanguardia.com_0.indexeddb.leveldb since it was missing.
+2023/11/18-22:38:39.639 392 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.lavanguardia.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/18-22:39:17.636 393 Level-0 table #5: started
+2023/11/18-22:39:17.636 393 Level-0 table #5: 6103 bytes OK
+2023/11/18-22:39:17.637 393 Delete type=0 #3
+2023/11/18-22:39:17.637 393 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

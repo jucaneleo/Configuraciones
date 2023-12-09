@@ -1,0 +1,15 @@
+2023/12/07-16:18:41.705 329 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/07-16:18:41.705 329 Recovering log #4
+2023/12/07-16:18:41.705 329 Reusing old log /home/zamyaza/.config/chromium/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb/000004.log 
+2023/12/07-16:25:44.004 32a Level-0 table #8: started
+2023/12/07-16:25:44.005 32a Level-0 table #8: 47101 bytes OK
+2023/12/07-16:25:44.006 32a Delete type=0 #4
+2023/12/07-16:25:44.006 32a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/07-16:25:44.006 32a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04(\x02\x03\x00\x00\x00\x00\x00\x00\x10@' @ 6779 : 1
+2023/12/07-16:25:44.006 32a Compacting 1@1 + 1@2 files
+2023/12/07-16:25:44.008 32a Generated table #9@1: 1372 keys, 65213 bytes
+2023/12/07-16:25:44.008 32a Compacted 1@1 + 1@2 files => 65213 bytes
+2023/12/07-16:25:44.009 32a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/07-16:25:44.009 32a Delete type=2 #8
+2023/12/07-16:25:44.009 32a Delete type=2 #5
+2023/12/07-16:25:44.010 32a Manual compaction at level-1 from '\x00\x04(\x02\x03\x00\x00\x00\x00\x00\x00\x10@' @ 6779 : 1 .. (end); will stop at (end)

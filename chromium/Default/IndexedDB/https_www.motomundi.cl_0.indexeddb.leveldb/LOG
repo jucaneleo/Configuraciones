@@ -1,0 +1,10 @@
+2023/11/05-16:47:16.470 2832 Creating DB /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.motomundi.cl_0.indexeddb.leveldb since it was missing.
+2023/11/05-16:47:16.472 2832 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.motomundi.cl_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/05-16:47:16.679 2835 Level-0 table #5: started
+2023/11/05-16:47:16.681 2835 Level-0 table #5: 671 bytes OK
+2023/11/05-16:47:16.682 2835 Delete type=0 #3
+2023/11/05-16:47:16.682 2832 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/05-16:48:15.998 2835 Level-0 table #7: started
+2023/11/05-16:48:15.998 2835 Level-0 table #7: 2239 bytes OK
+2023/11/05-16:48:15.999 2835 Delete type=0 #4
+2023/11/05-16:48:15.999 2833 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,14 @@
+2023/11/01-15:40:39.245 2ffd Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/01-15:40:39.245 2ffd Recovering log #12
+2023/11/01-15:40:39.245 2ffd Reusing old log /home/zamyaza/.config/chromium/Default/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/000012.log 
+2023/11/01-15:40:39.245 2ffd Delete type=2 #11
+2023/11/01-15:40:39.248 3007 Level-0 table #17: started
+2023/11/01-15:40:39.249 3007 Level-0 table #17: 556 bytes OK
+2023/11/01-15:40:39.250 3007 Delete type=0 #12
+2023/11/01-15:40:39.250 2ffd Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 79 : 1
+2023/11/01-15:40:39.250 2ffd Compacting 1@0 + 1@1 files
+2023/11/01-15:40:39.251 2ffd Generated table #18@0: 14 keys, 358 bytes
+2023/11/01-15:40:39.251 2ffd Compacted 1@0 + 1@1 files => 358 bytes
+2023/11/01-15:40:39.252 2ffd compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/01-15:40:39.252 2ffd Delete type=2 #17
+2023/11/01-15:40:39.252 2ffd Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 79 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

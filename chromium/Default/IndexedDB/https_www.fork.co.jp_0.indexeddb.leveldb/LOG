@@ -1,0 +1,18 @@
+2023/11/02-16:38:49.832 16a9 Creating DB /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.fork.co.jp_0.indexeddb.leveldb since it was missing.
+2023/11/02-16:38:49.838 16a9 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_www.fork.co.jp_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/02-16:38:49.842 16b2 Level-0 table #5: started
+2023/11/02-16:38:49.843 16b2 Level-0 table #5: 1338 bytes OK
+2023/11/02-16:38:49.844 16b2 Delete type=0 #3
+2023/11/02-16:38:49.844 16ab Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/02-16:41:07.798 16a9 Level-0 table #7: started
+2023/11/02-16:41:07.800 16a9 Level-0 table #7: 7697 bytes OK
+2023/11/02-16:41:07.801 16a9 Delete type=0 #4
+2023/11/02-16:41:07.802 16a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/02-16:41:07.802 16a9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x014\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x000\x004\x007\x000\x007\x002\x008\x004\x005\x001\x007\x00:\x00w\x00e\x00b\x00:\x008\x003\x006\x005\x007\x00a\x00f\x002\x00f\x007\x00c\x00d\x00d\x00d\x00e\x00e\x006\x007\x00a\x001\x00c\x00c' @ 160 : 1
+2023/11/02-16:41:07.802 16a9 Compacting 1@1 + 1@2 files
+2023/11/02-16:41:07.804 16a9 Generated table #8@1: 58 keys, 2881 bytes
+2023/11/02-16:41:07.804 16a9 Compacted 1@1 + 1@2 files => 2881 bytes
+2023/11/02-16:41:07.805 16a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/02-16:41:07.806 16a9 Delete type=2 #7
+2023/11/02-16:41:07.806 16a9 Delete type=2 #5
+2023/11/02-16:41:07.806 16a9 Manual compaction at level-1 from '\x00\x04\x01\x02\x014\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x000\x004\x007\x000\x007\x002\x008\x004\x005\x001\x007\x00:\x00w\x00e\x00b\x00:\x008\x003\x006\x005\x007\x00a\x00f\x002\x00f\x007\x00c\x00d\x00d\x00d\x00e\x00e\x006\x007\x00a\x001\x00c\x00c' @ 160 : 1 .. (end); will stop at (end)

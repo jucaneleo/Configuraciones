@@ -1,0 +1,6 @@
+2023/11/11-15:54:38.500 373 Creating DB /home/zamyaza/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2023/11/11-15:54:38.503 373 Reusing MANIFEST /home/zamyaza/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/11-15:54:41.673 36b Level-0 table #5: started
+2023/11/11-15:54:41.674 36b Level-0 table #5: 865 bytes OK
+2023/11/11-15:54:41.676 36b Delete type=0 #3
+2023/11/11-15:54:41.677 36b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
